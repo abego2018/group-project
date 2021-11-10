@@ -1,5 +1,5 @@
 # Class Roster Project
 
-Wednesday
+Tuesday 11/9/21
 
-Contributed to by Jane Doe, Code Ninja
+Contributed to by Jennifer Harms,
